@@ -5,7 +5,7 @@ class Dog
   end
   attr_accessor :name, 
   
-  def breed=("Mutt")
+  def breed="Mutt"
     @breed = breed 
   end  
   
